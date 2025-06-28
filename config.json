@@ -1,0 +1,8 @@
+{
+  "token": "YOUR_DISCORD_BOT_TOKEN_HERE",
+  "owner_ids": ["123456789012345678"],
+  "messages": {
+    "tip_message": "{sender} sent {receiver} {ltc} LTC (≈ {usd})",
+    "help_intro": "**tip.cc** is a bot that allows you to tip and make payments to any Discord user with your favorite cryptocurrency.\n\nSee `$currencies` for a full list of 647 cryptocurrencies it supports!\n\n**tip.cc is free to use.**\nTips are free of fees. The only fees are the withdrawal network fees, required by every cryptocurrency.\n\n**tip.cc is easy to use.**\n`$tip @user $1` – that's how simple sending crypto is.\n\nIf you don't have crypto, try `$faucet` to receive a small amount."
+  }
+}
